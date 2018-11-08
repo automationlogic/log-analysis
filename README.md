@@ -4,7 +4,9 @@
 
 This repo hosts scripts and notebooks related to machine learning log analysis. 
 
-[Scikit Learn Log Classification](https://github.com/automationlogic/log-analysis/blob/master/Scikit_Learn_Log_Classification.ipynb)
+[Scikit Learn Log Classification](https://github.com/automationlogic/log-analysis/blob/master/Scikit_Learn_Log_Classification.ipynb)  
+[Keras Log Classification](https://github.com/automationlogic/log-analysis/blob/master/Keras_Log_Classification.ipynb)  
+[Pytorch Log Classification](https://github.com/automationlogic/log-analysis/blob/master/Pytorch_Log_Classification.ipynb)  
 
 ## Install
 
